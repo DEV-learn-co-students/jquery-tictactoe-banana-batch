@@ -24,5 +24,3 @@ var updateState = function(event) {
 var attachListeners = function() {
   // your code here
 }
-
-
