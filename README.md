@@ -11,13 +11,11 @@
 
 ## Objective
 
-Make a tic-tac-toe game that behaves like the following video (right click and select Save Link As..) 
+Make a tic-tac-toe game that behaves like the following video (right click and select Save Link As) 
 
 Right click on the link below and select "Save link as..." to see a video of how your calculator should behave.
 
 [video](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/js/jquery-tic-tac-toe.mp4)
-
-Read the sections below for tips on how to handle each part of this lab.
 
 ## HTML
 
@@ -47,10 +45,8 @@ The lower right corner has an x of 2 and a y of 2.
 
 To figure out how jQuery can "see" these values, take a look at the Hints section.
 
-You should not need to make any changes to the HTML for this lab. 
-
 ## JavaScript
-The JavaScript functions you will need for this lab are stubbed out  
+
 * `attachListeners()`
   * You must have a function called `attachlisteners()` which the tests call to attach the click handlers to the page after the DOM has been loaded
   * When a client clicks on a cell, the function `doTurn()` should be called and passed a parameter of the event
