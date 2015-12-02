@@ -104,3 +104,5 @@ Take a loook at the [jQuery data() docs](https://api.jquery.com/jquery.data/) fo
 ## Resources
 
 * [jQuery data()](https://api.jquery.com/jquery.data/)
+
+<a href='https://learn.co/lessons/jquery-tictactoe' data-visibility='hidden'>View this lesson on Learn.co</a>
